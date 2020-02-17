@@ -1,3 +1,3 @@
 # wtfromly.github.io
-personal page\n
-love u ! my mangmang!
+personal page
+<p>love u ! my mangmang!</p>
